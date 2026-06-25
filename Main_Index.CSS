@@ -22,12 +22,12 @@ html, body {
 }
 
 .banner-container img {
-    max-width: 100%;
+    max-width: 1200px; /* prevents giant banner */
+    width: 100%;       /* scales down on small screens */
     height: auto;
     display: block;
     margin: 0 auto;
 }
-
 h1, h2, h3 {
     font-family: "Libre Baskerville", serif;
     font-weight: bold;
