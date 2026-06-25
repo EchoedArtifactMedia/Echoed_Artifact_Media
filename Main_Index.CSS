@@ -22,8 +22,8 @@ html, body {
 }
 
 .banner-container img {
-    max-width: 1200px; /* prevents giant banner */
-    width: 100%;       /* scales down on small screens */
+    max-width: 800px; 
+    width: 100%;       
     height: auto;
     display: block;
     margin: 0 auto;
