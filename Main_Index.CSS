@@ -16,17 +16,18 @@ html, body {
     padding: 40px 20px;
 }
 .banner-container {
-    width: 100%;
+img-align: center;
+width: 100%;
     max-width: 800px;
     margin: 0 auto;
-    max-height: 200px;  /* Add this to constrain height */
-    overflow: hidden;   /* Prevents image overflow */
+    max-height: 200px;
+    overflow: hidden;
 }
 
 .banner-container img {
     width: 100%;
     height: 100%;
-    object-fit: cover;  /* Crops image to fit without distortion */
+    object-fit: cover;
     display: block;
 }
 h1, h2, h3 {
