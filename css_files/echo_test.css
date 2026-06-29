@@ -48,3 +48,25 @@ p {
     margin-top: 60px;
     padding: 20px 0;
 }
+.echo-logo {
+  position: relative;
+  display: inline-block;
+}
+
+.echo {
+  position: absolute;
+  font-family: 'Libre Baskerville', serif;
+  font-weight: bold;
+  font-size: 72px; /* or 68px depending on your final choice */
+  letter-spacing: 1.5px;
+}
+
+.echo.yellow { left: -4px; color: #ffd300; }
+.echo.pink   { left: 4px;  color: #ff6ec7; }
+.echo.blue   { top: 4px;   color: #00aaff; }
+.echo.main   { color: #ffffff; position: relative; }
+.echo-wrapper {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
