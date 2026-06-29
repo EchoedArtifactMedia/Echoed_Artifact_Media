@@ -1,0 +1,24 @@
+<html>
+<head>
+<meta http-equiv="content-type" content="text/html; charset=UTF-8">
+<link rel="stylesheet"
+href="https://raw.githubusercontent.com/EchoedArtifactMedia/Echoed_Artifact_Media/main/css_files/echo_test.css">
+<title>EAM Index Test Page</title>
+</head>
+<body>
+<div class="vertical-bar"></div>
+
+<div class="logo-area">
+<div class="echo-logo"> <center><span class="echo yellow">ECHO</span> <span
+class="echo pink">ECHO</span> <span class="echo blue">ECHO</span>
+<span class="echo main">ECHO</span></center> </div>
+<br>
+<div class="echo-tagline"> Echoed Artifact Media, LLC </div>
+<div class="logo-divider"></div>
+<br>
+<div class="content-wrapper">
+<h3>About</h3>
+Echoed Artifact Media is an independent studio... </div>
+<footer></footer>
+</body>
+</html>
