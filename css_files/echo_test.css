@@ -137,10 +137,19 @@ header { top: 0; }
     margin-top: 60px;
     padding: 20px 0;
 }
-
 .content-wrapper {
-    padding-left: 25px;
-    padding-right: 20px;
+    width: 100%;
+    box-sizing: border-box;
+    padding-left: 80px;  /* Keeps the copy pushed safely right of the vertical bar */
+    padding-right: 40px; /* Gives the text breathing room on wide screens */
     padding-top: 30px;
+    text-align: left;    
+}
+.content-wrapper h3 {
     text-align: left;
+    margin-bottom: 10px;
+}
+.content-wrapper p {
+    text-align: left;
+    margin-bottom: 1.2em;
 }
