@@ -140,8 +140,8 @@ header { top: 0; }
 .content-wrapper {
     width: 100%;
     box-sizing: border-box;
-    padding-left: 80px;  /* Keeps the copy pushed safely right of the vertical bar */
-    padding-right: 40px; /* Gives the text breathing room on wide screens */
+    padding-left: 20px; 
+    padding-right: 40px;
     padding-top: 30px;
     text-align: left;    
 }
