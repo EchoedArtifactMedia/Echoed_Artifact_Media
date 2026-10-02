@@ -48,4 +48,18 @@ p {
     margin-top: 60px;
     padding: 20px 0;
 }
+a:link {
+  color: #3A6EA5;
+}
 
+a:visited {
+  color: #2F5C85;
+}
+
+a:hover {
+  color: #4A82C0;
+}
+
+a:active {
+  color: #2F5C85;
+}
